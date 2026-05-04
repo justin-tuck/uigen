@@ -5,3 +5,5 @@ CLAUDE.local.md
 node_modules/
 .next/
 prisma/dev.db
+settings.local.json
+settings.json
